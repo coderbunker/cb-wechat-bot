@@ -1,4 +1,4 @@
-# Coderbunker Wechaty Bot
+# Coderbunker Wechat Bot
 
 
 
@@ -32,7 +32,7 @@ yarn start
 
 #### Code Style Testing with ESLint
 
-Coderbunker Wechaty Bot supports Airbnb's JavaScript Style by ESLint. To test if your code is with the right code style, you have to run ESLint: 
+Coderbunker Wechat Bot supports Airbnb's JavaScript Style by ESLint. To test if your code is with the right code style, you have to run ESLint: 
 
 ```
 yarn run lint
