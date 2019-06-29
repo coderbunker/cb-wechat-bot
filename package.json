@@ -1,0 +1,21 @@
+{
+  "name": "cb-wechaty-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:coderbunker/cb-wechaty-bot.git",
+  "author": "andiechu <angdichu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "engines": {
+    "node": "^10.16.0"
+  },
+  "scripts": {
+    "lint": "./node_modules/.bin/eslint ./src/ --ext .js --ext .ts",
+    "start": "yarn run lint && ./bin/docker-run-bot.sh"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.18.0"
+  }
+}
