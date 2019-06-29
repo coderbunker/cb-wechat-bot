@@ -1,8 +1,8 @@
 {
-  "name": "cb-wechaty-bot",
+  "name": "cb-wechat-bot",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:coderbunker/cb-wechaty-bot.git",
+  "repository": "git@github.com:coderbunker/cb-wechat-bot.git",
   "author": "andiechu <angdichu@gmail.com>",
   "license": "MIT",
   "dependencies": {},
